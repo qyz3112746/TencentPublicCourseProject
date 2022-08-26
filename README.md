@@ -26,3 +26,5 @@ C:召唤一个电脑AI   R:换子弹   G:切手雷  1：切枪
 
 8.开始界面没有设置好。
 
+视频演示：
+https://www.bilibili.com/video/BV1gP411L7Ab?pop_share=1&vd_source=426c956a98bdbe84a1d65ff81608c281
